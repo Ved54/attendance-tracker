@@ -28,7 +28,7 @@ git clone https://github.com/Ved54/attendance-tracker.git
 
 2. Navigate to the project directory:
 ```bash
-cd attendance_tracker
+cd attendance-tracker
 ```
 
 3. Install dependencies:
